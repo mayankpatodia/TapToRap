@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/projies/MusicPlayerSubah/jamsMusicPlayer/src/main/res/values-sw720dp/screen.xml -->
+    <eat-comment/>
+    <bool name="landscape">false</bool>
+    <!-- From: file:/E:/projies/MusicPlayerSubah/jamsMusicPlayer/src/main/res/values-sw720dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+    <dimen name="kitkat_nav_bar_margin">0dp</dimen>
+    <dimen name="kitkat_nav_bar_margin_large">30dp</dimen>
+    <dimen name="slidingmenu_offset">600dp</dimen>
+    <!-- From: file:/E:/projies/MusicPlayerSubah/jamsMusicPlayer/src/main/res/values-sw720dp/screen.xml -->
+    <eat-comment/>
+    <string name="screen_size">large_tablet</string>
+</resources>

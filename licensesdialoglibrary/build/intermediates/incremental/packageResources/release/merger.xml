@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res"><file name="asl_20_full" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\asl_20_full.txt" qualifiers="" type="raw"/><file name="asl_20_summary" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\asl_20_summary.txt" qualifiers="" type="raw"/><file name="bsd3_full" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\bsd3_full.txt" qualifiers="" type="raw"/><file name="bsd3_summary" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\bsd3_summary.txt" qualifiers="" type="raw"/><file name="gnu_lesser_general_public_license" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\gnu_lesser_general_public_license.txt" qualifiers="" type="raw"/><file name="isc_full" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\isc_full.txt" qualifiers="" type="raw"/><file name="isc_summary" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\isc_summary.txt" qualifiers="" type="raw"/><file name="mit_full" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\mit_full.txt" qualifiers="" type="raw"/><file name="mit_summary" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\mit_summary.txt" qualifiers="" type="raw"/><file name="notices" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\raw\notices.xml" qualifiers="" type="raw"/><file path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\values\base_html.xml" qualifiers=""><string name="notices_default_style">
+        p.license {
+        background:grey;
+        }
+        body {
+        font-family: sans-serif;
+        }
+        pre {
+        background-color: #eeeeee;
+        padding: 1em;
+        white-space: pre-wrap;
+        }
+    </string></file><file path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\main\res\values\strings.xml" qualifiers=""><string name="notices_title">Notices</string><string name="notices_close">Close</string></file></source><source path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\generated\res\rs\release"/><source path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\release\res"/></dataSet><mergedItems/></merger>

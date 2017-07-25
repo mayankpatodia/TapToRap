@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+    android:id="@+id/action_play"
+    android:orderInCategory="100"
+    android:title="@string/play"
+    android:icon="@drawable/btn_playback_play"
+    android:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_add_to"
+        android:orderInCategory="99"
+        android:showAsAction="always"
+        android:icon="@drawable/add_light"
+        android:title="@string/add_to"/>
+
+</menu>
+<!-- From: file:/E:/projies/MusicPlayerSubah/jamsMusicPlayer/src/main/res/menu/contextual_actions.xml -->

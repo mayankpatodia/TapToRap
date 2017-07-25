@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-56b4a83d962c6092cce7783e548f59dc29fccb84.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\viewpagerindicatorlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1e1857af2d68baa96e8c98f23ca2af5655d377a4">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-748af8265849b5421e714ad28b5f70e29d7bf185.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\quickScroll\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="9009ddd0cc0067335340ada5805020af14703ca4">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-a6b2a2f46a2dbcb776fca180e3432c3ba9ff2780.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-31e43f6f04126f8ca4c8080338f91ace9b630a65.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-2762715e8fb9d3ffa5b42f45e3f4ba0323fdc393.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\google-http-client-android-1.16.0-rc.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="c2e8114029469943699b390ce14f6c0ff4565807">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\google-http-client-android-1.16.0-rc-d78aae15bd950ddb14d7e7e1de3b8c3b80b64456.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-8cdf4d915f4b5929877252dd141e829b61e710d4.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\dashclock-api-r2.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7e5decd5bbd057c1a2903be64bfe6f725603cc72">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\dashclock-api-r2.0-e47c10c9f4678d4513f80bdb0ec278108d9f9c17.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\picasso\unspecified\libs\annotations-12.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\annotations-12.0-ccaff6b8ebc29dbc3a13cd8aba9c179b9b8c97bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pramod Jose\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0f10c9ef2ca073b7c550d0aec1584ce7fb397a9e.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-e75fed39da063a80955e72783969d740dc78fc3d.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-fa9fecd8628133cd17bd0c5d38dafb85fa0f74e2.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-023c862377a6f13d1beae827f53d6011f51d5f64.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-5245f9a53055109cf29aba975b2aaaf123406a79.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-b24f5307742eba4cff77cd9e2f50e30c797733d8.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-17700a914a724f87bef6beb147c6e1b4ff1c9c35.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\com.haarman.listviewanimations-2.6.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\com.haarman.listviewanimations-2.6.0-2a0908946f24a24b69bbdf96d6e73e9cd7ad7dd7.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\android-async-http-1.4.2-66-g4b6eb97.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="d3a2a199d6991050d86c3bb0745b7a1a6f54f471">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\android-async-http-1.4.2-66-g4b6eb97-e76f091595b9dbf5e28167305146d371e2125e3f.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\jaudiotagger-2.0.4-20111207.115108-15.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="64a05cf9050623a0f71fa655ec5407915c481aa7">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\jaudiotagger-2.0.4-20111207.115108-15-00298c90d83c40f4afa93be891c7dfa73a58b206.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-e17b406a7ed77b4429c1f3ce1a6296abc1ad51a4.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\licensesdialoglibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="0f3e19d3bc9fa253c069f04ba639b936a7ba2bd0">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-7876f502fbec6fcf6b74ce6f6f792a4f56664e25.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\picasso\unspecified\libs\okio-1.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\okio-1.0.0-4d513f8a8a4bf219b26d8ba1f504b80188d94e4a.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\velocityviewpagerlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="5e42724f0aea95d85debb9827176d731ddacc416">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-85f00cea40ded39917005a5f739151075becbdc7.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\dragsortlistviewlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="f3ab7e0e3f2ecc0f5fe913ffe7845a0df501e11a">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-f8c8f2242e4aa512581dd4b517a496d0698db20c.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-548b71da18f715a03e49cf72fd4092841ffdb4b5.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-81a4cee751e3ab73c190b04b72f0c5e1d3166ff8.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\commons-logging.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\commons-logging-d380520faaac3de87e0d0e55a724bba5797dfdbb.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-78d98ff1a96ac99d5e8f4c29ab336b8427e3da02.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-b5219938e0ad8fab24ab6e1d580b517fd6cf2f57.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-ea7d0e14ff72e1d50ad8ae64f5235012d7a168a3.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\commons-io-2.4-02b266c3959c6074b9c7cae329d23dcf6410a8fe.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\picasso\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b271fd7d39038fa4330535a02b9328c3ee3cb572">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-209defa9f6b3f6f49d7cf5ad429d5af018262499.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-3303593dfdafe285708db694baad9772ad18ab8e.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-77d7839023bc8a4ef937582e143207e4c2f7aa96.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\circularImageView\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1f5d766b568114d7ad140a83ac8dea063dc49257">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-372b1031dbd27d9c06e9854d175aceed8986f5a9.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\google-http-client-1.16.0-rc.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="28ed56f20e8a214ec05d190d6ec4b13656f332a7">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\google-http-client-1.16.0-rc-b2c83c870f063f699030948219afb007e77d5d08.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-58c343ac7cbc7d100f36740272df6494ad3a897e.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-60b20320bdad6f3b99e5e640a89deae90e8f528b.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-940a74714adb00b73377a66163cab9e95f5c23a5.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-097824126218b711d5bf3323cbaaf184681b58ac.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\musiXmatchLyricsConnector.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="bcfc2723839ead190d96f39c4429862db5ed13d3">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\musiXmatchLyricsConnector-13a3f8fc1f0aee023a07ba4256541c487a43bc1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pramod Jose\AppData\Local\Android\sdk\build-tools\21.0.1\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2b276904cd854be6d460f2bcec9cf2cddaf580c1">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\renderscript-v8-e246bcfdbda03ac41389eb9f4e522c6c87b95ce7.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\picasso\unspecified\libs\okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\okhttp-2.0.0-647214afcc48a0375fbdb5f18cc6312dcadfeb51.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-2fa59f79034d781302722700605ddb13e7ec4726.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\MusicPlayerSubah\picasso\unspecified\libs\okhttp-urlconnection-1.6.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="375c2206eb7e52976955d0f8737be5e0ec9cf667">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\okhttp-urlconnection-1.6.0-cc22d2f71d4c58e6d0c99d245738526eebcdad3c.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\commons-lang3-3.1-ef828e40af257031f960063c74853be424b35940.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\classes-d09e1446d2d2a0e71b7f01f2e4e4f9d2942c902c.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\renderscript-v8.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="19d54695d29d5ca94dda30368a7df0b33ffc17d7">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\renderscript-v8-4c538a99a52209de322120d4df8ab988088f6bf9.jar" />
+    </item>
+    <item
+        jar="E:\projies\MusicPlayerSubah\jamsMusicPlayer\libs\universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
+        <dex dex="E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-with-sources-ba9bf74bb6dffde79e9dad14e910c02bc65d1030.jar" />
+    </item>
+
+</items>

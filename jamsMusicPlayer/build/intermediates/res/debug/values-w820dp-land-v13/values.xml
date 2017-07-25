@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/projies/MusicPlayerSubah/jamsMusicPlayer/src/main/res/values-w820dp-land/screen.xml -->
+    <eat-comment/>
+    <bool name="landscape">true</bool>
+    <string name="screen_size">xlarge_tablet</string>
+</resources>

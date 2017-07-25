@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BlacklistManagerActivity" >
+
+    <RelativeLayout
+        android:id="@+id/blacklist_manager_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" >
+    </RelativeLayout>
+
+</RelativeLayout>
+<!-- From: file:/E:/projies/MusicPlayerSubah/jamsMusicPlayer/src/main/res/layout/activity_blacklist_manager.xml -->

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <solid android:color="#11AAAAAA"/>
+</shape><!-- From: file:/E:/projies/MusicPlayerSubah/jamsMusicPlayer/src/main/res/drawable/empty_color_patch.xml -->

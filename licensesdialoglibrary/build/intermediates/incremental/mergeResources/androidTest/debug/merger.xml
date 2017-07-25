@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res"><file name="asl_20_full" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\asl_20_full.txt" qualifiers="" type="raw"/><file name="asl_20_summary" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\asl_20_summary.txt" qualifiers="" type="raw"/><file name="bsd3_full" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\bsd3_full.txt" qualifiers="" type="raw"/><file name="bsd3_summary" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\bsd3_summary.txt" qualifiers="" type="raw"/><file name="gnu_lesser_general_public_license" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\gnu_lesser_general_public_license.txt" qualifiers="" type="raw"/><file name="isc_full" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\isc_full.txt" qualifiers="" type="raw"/><file name="isc_summary" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\isc_summary.txt" qualifiers="" type="raw"/><file name="mit_full" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\mit_full.txt" qualifiers="" type="raw"/><file name="mit_summary" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\mit_summary.txt" qualifiers="" type="raw"/><file name="notices" path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\raw\notices.xml" qualifiers="" type="raw"/><file path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\intermediates\bundles\debug\res\values\values.xml" qualifiers=""><string name="notices_title">Notices</string><string name="notices_close">Close</string><string name="notices_default_style">
+        p.license {
+        background:grey;
+        }
+        body {
+        font-family: sans-serif;
+        }
+        pre {
+        background-color: #eeeeee;
+        padding: 1em;
+        white-space: pre-wrap;
+        }
+    </string></file></source></dataSet><dataSet config="main"><source path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\src\androidTest\res"/><source path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\generated\res\rs\androidTest\debug"/><source path="E:\projies\MusicPlayerSubah\licensesdialoglibrary\build\generated\res\generated\androidTest\debug"/></dataSet><mergedItems/></merger>

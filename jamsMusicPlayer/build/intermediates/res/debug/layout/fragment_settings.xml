@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/settings_fragment_root_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+        
+    <ListView
+		android:id="@+id/settings_list_view"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent" >
+
+	</ListView>
+    
+</RelativeLayout>
+<!-- From: file:/E:/projies/MusicPlayerSubah/jamsMusicPlayer/src/main/res/layout/fragment_settings.xml -->

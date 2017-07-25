@@ -1,0 +1,439 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:6:5
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:4:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:5:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:8:5
+	android:name
+		ADDED from AndroidManifest.xml:8:22
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from AndroidManifest.xml:9:5
+	android:name
+		ADDED from AndroidManifest.xml:9:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:10:5
+	android:name
+		ADDED from AndroidManifest.xml:10:22
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:11:5
+	android:name
+		ADDED from AndroidManifest.xml:11:22
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from AndroidManifest.xml:12:5
+	android:name
+		ADDED from AndroidManifest.xml:12:22
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from AndroidManifest.xml:13:5
+	android:name
+		ADDED from AndroidManifest.xml:13:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:14:5
+	android:name
+		ADDED from AndroidManifest.xml:14:22
+uses-sdk
+ADDED from AndroidManifest.xml:16:5
+MERGED from com.android.support:multidex:1.0.0:18:5
+MERGED from MusicPlayerSubah:licensesdialoglibrary:unspecified:22:5
+MERGED from MusicPlayerSubah:quickScroll:unspecified:7:5
+MERGED from MusicPlayerSubah:picasso:unspecified:8:5
+MERGED from MusicPlayerSubah:velocityviewpagerlibrary:unspecified:7:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+MERGED from MusicPlayerSubah:dragsortlistviewlibrary:unspecified:7:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+MERGED from MusicPlayerSubah:viewpagerindicatorlibrary:unspecified:7:5
+MERGED from MusicPlayerSubah:velocityviewpagerlibrary:unspecified:7:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+MERGED from MusicPlayerSubah:circularImageView:unspecified:7:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+MERGED from MusicPlayerSubah:picasso:unspecified:8:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+MERGED from com.google.android.gms:play-services:3.1.59:7:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+MERGED from com.afollestad:material-dialogs:0.7.3.1:8:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+MERGED from com.android.support:appcompat-v7:22.1.1:20:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+MERGED from com.android.support:recyclerview-v7:22.1.1:20:5
+MERGED from com.android.support:support-v4:22.1.1:20:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:18:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:17:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:20:5
+MERGED from MusicPlayerSubah:licensesdialoglibrary:unspecified:26:5
+MERGED from MusicPlayerSubah:velocityviewpagerlibrary:unspecified:11:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from MusicPlayerSubah:velocityviewpagerlibrary:unspecified:11:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from com.afollestad:material-dialogs:0.7.3.1:12:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from com.android.support:appcompat-v7:22.1.1:22:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from com.android.support:recyclerview-v7:22.1.1:22:5
+MERGED from com.android.support:support-v4:22.1.1:22:5
+	android:label
+		ADDED from AndroidManifest.xml:24:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:22:9
+	android:icon
+		ADDED from AndroidManifest.xml:23:9
+	android:largeHeap
+		ADDED from AndroidManifest.xml:25:9
+	android:theme
+		ADDED from MusicPlayerSubah:velocityviewpagerlibrary:unspecified:15:9
+	android:name
+		ADDED from AndroidManifest.xml:21:9
+meta-data#com.google.android.gms.version
+ADDED from AndroidManifest.xml:26:9
+	android:value
+		ADDED from AndroidManifest.xml:28:13
+	android:name
+		ADDED from AndroidManifest.xml:27:13
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from AndroidManifest.xml:29:9
+	android:value
+		ADDED from AndroidManifest.xml:31:13
+	android:name
+		ADDED from AndroidManifest.xml:30:13
+service#com.google.analytics.tracking.android.CampaignTrackingService
+ADDED from AndroidManifest.xml:35:9
+	android:name
+		ADDED from AndroidManifest.xml:35:18
+receiver#com.google.analytics.tracking.android.CampaignTrackingReceiver
+ADDED from AndroidManifest.xml:37:9
+	android:exported
+		ADDED from AndroidManifest.xml:39:13
+	android:name
+		ADDED from AndroidManifest.xml:38:13
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from AndroidManifest.xml:40:13
+action#com.android.vending.INSTALL_REFERRER
+ADDED from AndroidManifest.xml:41:17
+	android:name
+		ADDED from AndroidManifest.xml:41:25
+activity#com.jams.music.player.NowPlayingActivity.NowPlayingActivity
+ADDED from AndroidManifest.xml:47:9
+	android:label
+		ADDED from AndroidManifest.xml:50:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:51:13
+	android:exported
+		ADDED from AndroidManifest.xml:49:13
+	android:name
+		ADDED from AndroidManifest.xml:48:13
+activity#com.jams.music.player.EqualizerActivity.EqualizerActivity
+ADDED from AndroidManifest.xml:56:9
+	android:label
+		ADDED from AndroidManifest.xml:59:13
+	android:exported
+		ADDED from AndroidManifest.xml:58:13
+	android:name
+		ADDED from AndroidManifest.xml:57:13
+activity#com.jams.music.player.LauncherActivity.LauncherActivity
+ADDED from AndroidManifest.xml:64:9
+	android:name
+		ADDED from AndroidManifest.xml:64:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:65:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:66:17
+	android:name
+		ADDED from AndroidManifest.xml:66:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:68:17
+	android:name
+		ADDED from AndroidManifest.xml:68:27
+activity#com.jams.music.player.WelcomeActivity.WelcomeActivity
+ADDED from AndroidManifest.xml:74:9
+	android:label
+		ADDED from AndroidManifest.xml:76:13
+	android:name
+		ADDED from AndroidManifest.xml:75:13
+activity#com.jams.music.player.MainActivity.MainActivity
+ADDED from AndroidManifest.xml:81:9
+	android:label
+		ADDED from AndroidManifest.xml:83:13
+	android:theme
+		ADDED from AndroidManifest.xml:84:13
+	android:name
+		ADDED from AndroidManifest.xml:82:13
+service#com.jams.music.player.Services.AudioPlaybackService
+ADDED from AndroidManifest.xml:89:9
+	android:name
+		ADDED from AndroidManifest.xml:89:18
+service#com.jams.music.player.Services.AutoFetchAlbumArtService
+ADDED from AndroidManifest.xml:90:9
+	android:name
+		ADDED from AndroidManifest.xml:90:18
+service#com.jams.music.player.Services.PinGMusicSongsService
+ADDED from AndroidManifest.xml:91:9
+	android:name
+		ADDED from AndroidManifest.xml:91:18
+service#com.jams.music.player.Services.LargeWidgetAdapterService
+ADDED from AndroidManifest.xml:92:9
+	android:exported
+		ADDED from AndroidManifest.xml:94:13
+	android:permission
+		ADDED from AndroidManifest.xml:95:13
+	android:name
+		ADDED from AndroidManifest.xml:93:13
+service#com.jams.music.player.Services.BuildMusicLibraryService
+ADDED from AndroidManifest.xml:96:9
+	android:exported
+		ADDED from AndroidManifest.xml:98:13
+	android:name
+		ADDED from AndroidManifest.xml:97:13
+service#com.jams.music.player.Services.DashClockExtensionService
+ADDED from AndroidManifest.xml:99:9
+	android:label
+		ADDED from AndroidManifest.xml:102:13
+	android:permission
+		ADDED from AndroidManifest.xml:103:13
+	android:icon
+		ADDED from AndroidManifest.xml:101:13
+	android:name
+		ADDED from AndroidManifest.xml:100:13
+intent-filter#com.google.android.apps.dashclock.Extension
+ADDED from AndroidManifest.xml:104:13
+action#com.google.android.apps.dashclock.Extension
+ADDED from AndroidManifest.xml:105:17
+	android:name
+		ADDED from AndroidManifest.xml:105:25
+meta-data#protocolVersion
+ADDED from AndroidManifest.xml:108:13
+	android:value
+		ADDED from AndroidManifest.xml:110:17
+	android:name
+		ADDED from AndroidManifest.xml:109:17
+meta-data#worldReadable
+ADDED from AndroidManifest.xml:111:13
+	android:value
+		ADDED from AndroidManifest.xml:113:17
+	android:name
+		ADDED from AndroidManifest.xml:112:17
+meta-data#description
+ADDED from AndroidManifest.xml:114:13
+	android:value
+		ADDED from AndroidManifest.xml:116:17
+	android:name
+		ADDED from AndroidManifest.xml:115:17
+receiver#com.jams.music.player.WidgetProviders.LargeWidgetProvider
+ADDED from AndroidManifest.xml:121:9
+	android:label
+		ADDED from AndroidManifest.xml:123:13
+	android:name
+		ADDED from AndroidManifest.xml:122:13
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from AndroidManifest.xml:124:13
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from AndroidManifest.xml:125:17
+	android:name
+		ADDED from AndroidManifest.xml:125:25
+meta-data#android.appwidget.provider
+ADDED from AndroidManifest.xml:128:13
+	android:resource
+		ADDED from AndroidManifest.xml:130:17
+	android:name
+		ADDED from AndroidManifest.xml:129:17
+receiver#com.jams.music.player.WidgetProviders.BlurredWidgetProvider
+ADDED from AndroidManifest.xml:135:9
+	android:label
+		ADDED from AndroidManifest.xml:137:13
+	android:name
+		ADDED from AndroidManifest.xml:136:13
+receiver#com.jams.music.player.WidgetProviders.AlbumArtWidgetProvider
+ADDED from AndroidManifest.xml:149:9
+	android:label
+		ADDED from AndroidManifest.xml:151:13
+	android:name
+		ADDED from AndroidManifest.xml:150:13
+receiver#com.jams.music.player.BroadcastReceivers.HeadsetButtonsReceiver
+ADDED from AndroidManifest.xml:163:9
+	android:name
+		ADDED from AndroidManifest.xml:163:19
+intent-filter#android.intent.action.MEDIA_BUTTON
+ADDED from AndroidManifest.xml:164:13
+action#android.intent.action.MEDIA_BUTTON
+ADDED from AndroidManifest.xml:165:17
+	android:name
+		ADDED from AndroidManifest.xml:165:25
+receiver#com.jams.music.player.WidgetProviders.SmallWidgetProvider
+ADDED from AndroidManifest.xml:171:9
+	android:label
+		ADDED from AndroidManifest.xml:173:13
+	android:name
+		ADDED from AndroidManifest.xml:172:13
+activity#com.jams.music.player.WidgetProviders.LargeWidgetConfigActivity
+ADDED from AndroidManifest.xml:185:9
+	android:name
+		ADDED from AndroidManifest.xml:185:19
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from AndroidManifest.xml:186:13
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from AndroidManifest.xml:187:17
+	android:name
+		ADDED from AndroidManifest.xml:187:25
+activity#com.jams.music.player.WidgetProviders.SmallWidgetConfigActivity
+ADDED from AndroidManifest.xml:193:9
+	android:name
+		ADDED from AndroidManifest.xml:193:19
+receiver#com.jams.music.player.BroadcastReceivers.LaunchNowPlayingReceiver
+ADDED from AndroidManifest.xml:201:9
+	android:name
+		ADDED from AndroidManifest.xml:201:19
+intent-filter#com.jams.music.player.LAUNCH_NOW_PLAYING_ACTION
+ADDED from AndroidManifest.xml:202:13
+action#com.jams.music.player.LAUNCH_NOW_PLAYING_ACTION
+ADDED from AndroidManifest.xml:203:17
+	android:name
+		ADDED from AndroidManifest.xml:203:25
+receiver#com.jams.music.player.BroadcastReceivers.PlayPauseBroadcastReceiver
+ADDED from AndroidManifest.xml:209:9
+	android:name
+		ADDED from AndroidManifest.xml:209:19
+intent-filter#com.jams.music.player.PLAY_PAUSE_ACTION
+ADDED from AndroidManifest.xml:210:13
+action#com.jams.music.player.PLAY_PAUSE_ACTION
+ADDED from AndroidManifest.xml:211:17
+	android:name
+		ADDED from AndroidManifest.xml:211:25
+receiver#com.jams.music.player.BroadcastReceivers.PreviousBroadcastReceiver
+ADDED from AndroidManifest.xml:217:9
+	android:name
+		ADDED from AndroidManifest.xml:217:19
+intent-filter#com.jams.music.player.PREVIOUS_ACTION
+ADDED from AndroidManifest.xml:218:13
+action#com.jams.music.player.PREVIOUS_ACTION
+ADDED from AndroidManifest.xml:219:17
+	android:name
+		ADDED from AndroidManifest.xml:219:25
+receiver#com.jams.music.player.BroadcastReceivers.NextBroadcastReceiver
+ADDED from AndroidManifest.xml:225:9
+	android:name
+		ADDED from AndroidManifest.xml:225:19
+intent-filter#com.jams.music.player.NEXT_ACTION
+ADDED from AndroidManifest.xml:226:13
+action#com.jams.music.player.NEXT_ACTION
+ADDED from AndroidManifest.xml:227:17
+	android:name
+		ADDED from AndroidManifest.xml:227:25
+receiver#com.jams.music.player.BroadcastReceivers.StopServiceBroadcastReceiver
+ADDED from AndroidManifest.xml:233:9
+	android:name
+		ADDED from AndroidManifest.xml:233:19
+intent-filter#com.jams.music.player.STOP_SERVICE
+ADDED from AndroidManifest.xml:234:13
+action#com.jams.music.player.STOP_SERVICE
+ADDED from AndroidManifest.xml:235:17
+	android:name
+		ADDED from AndroidManifest.xml:235:25
+receiver#com.jams.music.player.BroadcastReceivers.ChangeTrackBroadcastReceiver
+ADDED from AndroidManifest.xml:241:9
+	android:name
+		ADDED from AndroidManifest.xml:241:19
+intent-filter#com.jams.music.player.WIDGET_CHANGE_TRACK
+ADDED from AndroidManifest.xml:242:13
+action#com.jams.music.player.WIDGET_CHANGE_TRACK
+ADDED from AndroidManifest.xml:243:17
+	android:name
+		ADDED from AndroidManifest.xml:243:25
+activity#com.jams.music.player.SettingsActivity.SettingsActivity
+ADDED from AndroidManifest.xml:249:9
+	android:name
+		ADDED from AndroidManifest.xml:249:19
+activity#com.jams.music.player.SettingsActivity.PreferenceDialogLauncherActivity
+ADDED from AndroidManifest.xml:254:9
+	android:label
+		ADDED from AndroidManifest.xml:256:13
+	android:theme
+		ADDED from AndroidManifest.xml:257:13
+	android:name
+		ADDED from AndroidManifest.xml:255:13
+activity#com.jams.music.player.NowPlayingQueueActivity.NowPlayingQueueActivity
+ADDED from AndroidManifest.xml:262:9
+	android:label
+		ADDED from AndroidManifest.xml:264:13
+	android:name
+		ADDED from AndroidManifest.xml:263:13
+activity#com.jams.music.player.BlacklistManagerActivity.BlacklistManagerActivity
+ADDED from AndroidManifest.xml:269:9
+	android:label
+		ADDED from AndroidManifest.xml:271:13
+	android:name
+		ADDED from AndroidManifest.xml:270:13
+activity#com.jams.music.player.MusicLibraryEditorActivity.MusicLibraryEditorActivity
+ADDED from AndroidManifest.xml:276:9
+	android:label
+		ADDED from AndroidManifest.xml:278:13
+	android:name
+		ADDED from AndroidManifest.xml:277:13
+activity#com.jams.music.player.PlaylistEditorActivity.PlaylistEditorActivity
+ADDED from AndroidManifest.xml:283:9
+	android:label
+		ADDED from AndroidManifest.xml:285:13
+	android:name
+		ADDED from AndroidManifest.xml:284:13
+activity#com.jams.music.player.Services.KitKatFixActivity
+ADDED from AndroidManifest.xml:290:9
+	android:clearTaskOnLaunch
+		ADDED from AndroidManifest.xml:294:13
+	android:enabled
+		ADDED from AndroidManifest.xml:295:13
+	android:stateNotNeeded
+		ADDED from AndroidManifest.xml:299:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:296:13
+	android:noHistory
+		ADDED from AndroidManifest.xml:298:13
+	android:allowTaskReparenting
+		ADDED from AndroidManifest.xml:292:13
+	android:alwaysRetainTaskState
+		ADDED from AndroidManifest.xml:293:13
+	android:finishOnTaskLaunch
+		ADDED from AndroidManifest.xml:297:13
+	android:theme
+		ADDED from AndroidManifest.xml:300:13
+	android:name
+		ADDED from AndroidManifest.xml:291:13
+activity#com.jams.music.player.BrowserSubListActivity.BrowserSubListActivity
+ADDED from AndroidManifest.xml:301:9
+	android:label
+		ADDED from AndroidManifest.xml:303:13
+	android:name
+		ADDED from AndroidManifest.xml:302:13
+activity#com.jams.music.player.BrowserSubGridActivity.BrowserSubGridActivity
+ADDED from AndroidManifest.xml:305:9
+	android:label
+		ADDED from AndroidManifest.xml:307:13
+	android:name
+		ADDED from AndroidManifest.xml:306:13
+activity#android.support.v7.widget.TestActivity
+ADDED from com.android.support:recyclerview-v7:22.1.1:23:9
+	android:label
+		ADDED from com.android.support:recyclerview-v7:22.1.1:25:13
+	android:name
+		ADDED from com.android.support:recyclerview-v7:22.1.1:24:13

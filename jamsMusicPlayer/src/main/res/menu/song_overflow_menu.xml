@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >  
+	<item
+	    android:id="@+id/add_to_queue"  
+	    android:title="@string/add_to_queue"/> 
+	<item  
+	    android:id="@+id/play_next"  
+	    android:title="@string/play_next"/>
+	<item  
+	    android:id="@+id/add_to_playlist"  
+	    android:title="@string/add_to_playlist"/> 
+  	<item  
+	    android:id="@+id/blacklist_song"  
+	    android:title="@string/blacklist_song"/>
+
+    <item
+        android:id="@+id/share_song"
+        android:title="@string/share_song"/>
+
+    <item
+        android:id="@+id/hide_extract"
+        android:title="@string/hide_extract"/>
+
+
+</menu>

@@ -1,0 +1,169 @@
+-injars 'E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\multi-dex\debug\allclasses.jar'
+-outjars 'E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontpreverify
+-dontwarn
+-printconfiguration 'E:\projies\MusicPlayerSubah\jamsMusicPlayer\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.jams.music.player.Utils.Common {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.google.analytics.tracking.android.CampaignTrackingService {
+    <init>();
+}
+
+-keep class com.google.analytics.tracking.android.CampaignTrackingReceiver {
+    <init>();
+}
+
+-keep class com.jams.music.player.NowPlayingActivity.NowPlayingActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.EqualizerActivity.EqualizerActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.LauncherActivity.LauncherActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.WelcomeActivity.WelcomeActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.MainActivity.MainActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.Services.AudioPlaybackService {
+    <init>();
+}
+
+-keep class com.jams.music.player.Services.AutoFetchAlbumArtService {
+    <init>();
+}
+
+-keep class com.jams.music.player.Services.PinGMusicSongsService {
+    <init>();
+}
+
+-keep class com.jams.music.player.Services.LargeWidgetAdapterService {
+    <init>();
+}
+
+-keep class com.jams.music.player.Services.BuildMusicLibraryService {
+    <init>();
+}
+
+-keep class com.jams.music.player.Services.DashClockExtensionService {
+    <init>();
+}
+
+-keep class com.jams.music.player.WidgetProviders.LargeWidgetProvider {
+    <init>();
+}
+
+-keep class com.jams.music.player.WidgetProviders.BlurredWidgetProvider {
+    <init>();
+}
+
+-keep class com.jams.music.player.WidgetProviders.AlbumArtWidgetProvider {
+    <init>();
+}
+
+-keep class com.jams.music.player.BroadcastReceivers.HeadsetButtonsReceiver {
+    <init>();
+}
+
+-keep class com.jams.music.player.WidgetProviders.SmallWidgetProvider {
+    <init>();
+}
+
+-keep class com.jams.music.player.WidgetProviders.LargeWidgetConfigActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.WidgetProviders.SmallWidgetConfigActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.BroadcastReceivers.LaunchNowPlayingReceiver {
+    <init>();
+}
+
+-keep class com.jams.music.player.BroadcastReceivers.PlayPauseBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.jams.music.player.BroadcastReceivers.PreviousBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.jams.music.player.BroadcastReceivers.NextBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.jams.music.player.BroadcastReceivers.StopServiceBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.jams.music.player.BroadcastReceivers.ChangeTrackBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.jams.music.player.SettingsActivity.SettingsActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.SettingsActivity.PreferenceDialogLauncherActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.NowPlayingQueueActivity.NowPlayingQueueActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.BlacklistManagerActivity.BlacklistManagerActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.MusicLibraryEditorActivity.MusicLibraryEditorActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.PlaylistEditorActivity.PlaylistEditorActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.Services.KitKatFixActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.BrowserSubListActivity.BrowserSubListActivity {
+    <init>();
+}
+
+-keep class com.jams.music.player.BrowserSubGridActivity.BrowserSubGridActivity {
+    <init>();
+}
+
+-keep class android.support.v7.widget.TestActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
